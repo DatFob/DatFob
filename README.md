@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DatFob
+- 👀 I'm a computer engineer graudted from SCU
+- 🌱 I’m currently pursuing Master Degree @ USFCA
+- 📫 How to reach me -> tzhao22@dons.usfca.edu
