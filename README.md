@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mike 
-- 👀 I'm a computer engineer graduated from SCU
-- 🌱 I’m currently pursuing Master Degree @ USFCA
-- 📫 Wanna chat with me? -> tzhao22@dons.usfca.edu
+- 👀 I'm a computer engineer graduated from Santa Clara University
+- 🌱 I also got my Master degree in computer science from University of San Francisco
+- 📫 Wanna chat with me? -> mikezhao980306@gmail.com
